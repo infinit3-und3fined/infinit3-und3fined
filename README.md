@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌌 nothin. <small>(with a dot)</small></h1>
+  <h1>🌌 Nothin. <small>(with a dot)</small></h1>
   <p><em>"The art of thinking about not thinking about thinking"</em></p>
   
   <div style="border: 2px dashed #ffd700; padding: 1.5em; margin: 1em 0; border-radius: 15px;">
