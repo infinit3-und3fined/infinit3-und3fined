@@ -23,31 +23,48 @@
 ### Citrus Philosophy 101
 
 ```
-       🌱
-      (🌱)    The seed of thought
-     ((🌱))   Grows in both directions
-    🍃/    \🍃  Reaching for light and depth
-    /        \ 
-   🍋        🍋  Bearing fruits of wisdom
-  🍋🍋      🍋🍋  That nourish new beginnings
-     |    |
-     |__|     Rooted in paradox
+        🌱
+       (🌱)     The seed of thought
+      ((🌱))    Grows in both directions
+     🍃/  \🍃   Reaching for light and depth
+    /      \ 
+   🍋      🍋   Bearing fruits of wisdom
+  🍋🍋    🍋🍋   That nourish new beginnings
+     |  |
+     |__|      Rooted in paradox
     /    \    
    /      \   
-  ∞        ∞   The cycle continues
+  ∞        ∞    The cycle continues
 ```
+
+<div align="center">
+<pre style="background: #f8f9fa; padding: 1rem; border-radius: 8px; display: inline-block; text-align: left; margin: 1rem 0;">
+        🌱
+       (🌱)     The seed of thought
+      ((🌱))    Grows in both directions
+     🍃/  \🍃   Reaching for light and depth
+    /      \ 
+   🍋      🍋   Bearing fruits of wisdom
+  🍋🍋    🍋🍋   That nourish new beginnings
+     |  |
+     |__|      Rooted in paradox
+    /    \    
+   /      \   
+  ∞        ∞    The cycle continues
+</pre>
+</div>
 
 ### The Citrus Conspiracy
 
-<div align="left" style="max-width: 700px; margin: 0 auto;">
+<div align="left" style="max-width: 700px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box;">
 
-🍋 **Citrus Theorem #1**  
+#### 🍋 **Citrus Theorem #1**  
 *When life gives you lemons, don't give lemons back—ask for yellow Mangoes. The universe loves a specific request.*
 
-🍊 **The Forbidden Truth**  
+#### 🍊 **The Forbidden Truth**  
 *Oranges are just lemons that finally figured out how to be happy.*
 
-🍈 **The Melon Paradox**  
+#### 🍈 **The Melon Paradox**  
 *What if we're all just watermelons who think we're people? The seeds know the truth.*
 
 </div>
@@ -61,7 +78,7 @@
 
 ### The Cloud Conundrums
 
-<div align="left" style="max-width: 700px; margin: 0 auto;">
+<div align="left" style="max-width: 700px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box;">
 
 - If a cloud never repeats its shape, is it truly the same cloud we saw yesterday?
 - Clouds drift without destination, yet always seem to be exactly where they need to be
@@ -76,14 +93,26 @@
 
 ## 🌙 Thoughts at 3:17 AM
 
+<div align="left" style="max-width: 700px; margin: 0 auto; padding: 0 1rem; box-sizing: border-box;">
+
 > *"I think, therefore I am... probably overthinking this."*  
 > — **Nothin.** (3:17 AM)
 
 > *"The mind is like a river - constantly flowing, sometimes calm, sometimes wild, but always deeper than it appears."*  
 > — **Nothin.** (3:17 AM)
 
+> *"The more I know, the more I realize I know nothing. The more I realize I know nothing, the more I know."*  
+> — **Nothin.** (3:17 AM)
+
 </div>
-> "The more I know, the more I realize I know nothing. The more I realize I know nothing, the more I know." - Nothin. (3:17 AM)
+
+---
+
+<div align="center" style="margin-top: 2rem;">
+    <sub>✨ Created with a sprinkle of madness and a dash of philosophy ✨</sub>
+</div>
+
+</div>
 
 ---
 
