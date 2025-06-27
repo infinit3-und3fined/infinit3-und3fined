@@ -9,11 +9,11 @@
 
 ## 🌌 The Dot
 
-<div align="center">
-  <div style="font-size: 4rem; line-height: 1; margin: 1rem 0;">•</div>
-  *A point of infinite potential.*  
-  *The end that is also a beginning.*  
-  *The silence between words.*
+<div align="center" style="margin: 2rem 0;">
+  <div style="font-size: 5rem; line-height: 1; margin: 1rem 0; color: #6366f1;">•</div>
+  <p style="font-size: 1.2rem; color: #4b5563; max-width: 600px; margin: 0 auto;">
+    A point of infinite potential. The end that is also a beginning. The silence between words.
+  </p>
 </div>
 
 ---
@@ -23,31 +23,31 @@
 ### CITRUS PHILOSOPHY 101
 
 <div align="center" style="margin: 2rem 0;">
-  <table style="border: none; border-collapse: separate; border-spacing: 1rem;">
-    <tr>
-      <td style="vertical-align: top; width: 300px; border: 1px solid #f0f0f0; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-        <div style="font-size: 2rem; text-align: center; margin-bottom: 1rem;">🌱</div>
-        <h3 style="text-align: center; color: #e67e22; margin: 0.5rem 0 1rem;">The Seed</h3>
-        <p style="text-align: center; color: #5d4037; margin: 0;">
-          All great ideas start small, like a seed waiting to sprout.
-        </p>
-      </td>
-      <td style="vertical-align: top; width: 300px; border: 1px solid #f0f0f0; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-        <div style="font-size: 2rem; text-align: center; margin-bottom: 1rem;">🍋</div>
-        <h3 style="text-align: center; color: #e67e22; margin: 0.5rem 0 1rem;">The Fruit</h3>
-        <p style="text-align: center; color: #5d4037; margin: 0;">
-          Nourishment comes in many forms, some more tart than others.
-        </p>
-      </td>
-      <td style="vertical-align: top; width: 300px; border: 1px solid #f0f0f0; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-        <div style="font-size: 2rem; text-align: center; margin-bottom: 1rem;">∞</div>
-        <h3 style="text-align: center; color: #e67e22; margin: 0.5rem 0 1rem;">The Cycle</h3>
-        <p style="text-align: center; color: #5d4037; margin: 0;">
-          From seed to fruit to seed again, the journey never truly ends.
-        </p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; max-width: 1000px; margin: 0 auto;">
+    <div style="flex: 1; min-width: 250px; background: #f9fafb; border-radius: 12px; padding: 1.75rem; text-align: center; transition: transform 0.2s ease;">
+      <div style="font-size: 2.5rem; margin-bottom: 1rem; color: #f59e0b;">🌱</div>
+      <h3 style="color: #1f2937; margin: 0.75rem 0; font-size: 1.25rem;">The Seed</h3>
+      <p style="color: #4b5563; margin: 0; line-height: 1.5;">
+        All great ideas start small, like a seed waiting to sprout.
+      </p>
+    </div>
+
+    <div style="flex: 1; min-width: 250px; background: #f9fafb; border-radius: 12px; padding: 1.75rem; text-align: center; transition: transform 0.2s ease;">
+      <div style="font-size: 2.5rem; margin-bottom: 1rem; color: #f59e0b;">🍋</div>
+      <h3 style="color: #1f2937; margin: 0.75rem 0; font-size: 1.25rem;">The Fruit</h3>
+      <p style="color: #4b5563; margin: 0; line-height: 1.5;">
+        Nourishment comes in many forms, some more tart than others.
+      </p>
+    </div>
+
+    <div style="flex: 1; min-width: 250px; background: #f9fafb; border-radius: 12px; padding: 1.75rem; text-align: center; transition: transform 0.2s ease;">
+      <div style="font-size: 2.5rem; margin-bottom: 1rem; color: #f59e0b;">∞</div>
+      <h3 style="color: #1f2937; margin: 0.75rem 0; font-size: 1.25rem;">The Cycle</h3>
+      <p style="color: #4b5563; margin: 0; line-height: 1.5;">
+        From seed to fruit to seed again, the journey never truly ends.
+      </p>
+    </div>
+  </div>
 </div>
 
 > *"The lemon doesn't question its sourness, the tree doesn't question its growth. Why then do we question our own nature?"*  
@@ -57,14 +57,26 @@
 
 ## 🍊 The Citrus Conspiracy
 
-### 🍋 **Citrus Theorem #1**  
-*When life gives you lemons, don't give lemons back—ask for yellow Mangoes. The universe loves a specific request.*
+<div style="background: #fefce8; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
+  <h3 style="margin-top: 0; color: #92400e;">🍋 Citrus Theorem #1</h3>
+  <p style="margin: 0.5rem 0 0; color: #854d0e;">
+    When life gives you lemons, don't give lemons back—ask for yellow Mangoes. The universe loves a specific request.
+  </p>
+</div>
 
-### 🍊 **The Forbidden Truth**  
-*Oranges are just lemons that finally figured out how to be happy.*
+<div style="background: #eff6ff; border-left: 4px solid #3b82f6; padding: 1rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
+  <h3 style="margin-top: 0; color: #1e40af;">🍊 The Forbidden Truth</h3>
+  <p style="margin: 0.5rem 0 0; color: #1e40af;">
+    Oranges are just lemons that finally figured out how to be happy.
+  </p>
+</div>
 
-### 🍈 **The Melon Paradox**  
-*What if we're all just watermelons who think we're people? The seeds know the truth.*
+<div style="background: #f0fdf4; border-left: 4px solid #10b981; padding: 1rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0;">
+  <h3 style="margin-top: 0; color: #065f46;">🍈 The Melon Paradox</h3>
+  <p style="margin: 0.5rem 0 0; color: #065f46;">
+    What if we're all just watermelons who think we're people? The seeds know the truth.
+  </p>
+</div>
 
 > *"When life gives you lemons, question who's handing out fruit at this hour."*  
 > — **Nothin.** (3:17 AM)
@@ -73,11 +85,14 @@
 
 ## ☁️ Cloud Contemplations
 
-### The Cloud Conundrums
-
-- If a cloud never repeats its shape, is it truly the same cloud we saw yesterday?
-- Clouds drift without destination, yet always seem to be exactly where they need to be
-- We name their shapes, but who's to say the clouds aren't naming us?
+<div style="background: #f8fafc; border-radius: 12px; padding: 1.5rem; margin: 2rem 0;">
+  <h3 style="margin-top: 0; color: #1e293b;">The Cloud Conundrums</h3>
+  <ul style="padding-left: 1.5rem; color: #334155;">
+    <li style="margin-bottom: 0.75rem;">If a cloud never repeats its shape, is it truly the same cloud we saw yesterday?</li>
+    <li style="margin-bottom: 0.75rem;">Clouds drift without destination, yet always seem to be exactly where they need to be</li>
+    <li>We name their shapes, but who's to say the clouds aren't naming us?</li>
+  </ul>
+</div>
 
 > *"I'm not arguing, I'm just explaining why I'm right."*  
 > — **Nothin.** (3:17 AM)
@@ -86,14 +101,20 @@
 
 ## 🌙 Thoughts at 3:17 AM
 
-> *"I think, therefore I am... probably overthinking this."*  
-> — **Nothin.** (3:17 AM)
+<blockquote style="background: #f9fafb; border-left: 4px solid #8b5cf6; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0; font-style: normal;">
+  <p style="margin: 0 0 0.5rem; color: #4b5563; font-size: 1.1rem;">"I think, therefore I am... probably overthinking this."</p>
+  <footer style="font-size: 0.9rem; color: #6b7280;">— <strong>Nothin.</strong> (3:17 AM)</footer>
+</blockquote>
 
-> *"The mind is like a river - constantly flowing, sometimes calm, sometimes wild, but always deeper than it appears."*  
-> — **Nothin.** (3:17 AM)
+<blockquote style="background: #f9fafb; border-left: 4px solid #ec4899; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0; font-style: normal;">
+  <p style="margin: 0 0 0.5rem; color: #4b5563; font-size: 1.1rem;">"The mind is like a river - constantly flowing, sometimes calm, sometimes wild, but always deeper than it appears."</p>
+  <footer style="font-size: 0.9rem; color: #6b7280;">— <strong>Nothin.</strong> (3:17 AM)</footer>
+</blockquote>
 
-> *"The more I know, the more I realize I know nothing. The more I realize I know nothing, the more I know."*  
-> — **Nothin.** (3:17 AM)
+<blockquote style="background: #f9fafb; border-left: 4px solid #10b981; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 0 8px 8px 0; font-style: normal;">
+  <p style="margin: 0 0 0.5rem; color: #4b5563; font-size: 1.1rem;">"The more I know, the more I realize I know nothing. The more I realize I know nothing, the more I know."</p>
+  <footer style="font-size: 0.9rem; color: #6b7280;">— <strong>Nothin.</strong> (3:17 AM)</footer>
+</blockquote>
 
 ---
 
