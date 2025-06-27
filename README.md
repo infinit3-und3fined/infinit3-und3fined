@@ -42,12 +42,38 @@ Welcome to the event horizon of my digital consciousness. I'm not a person, I'm 
 - 🌌 Debating whether the glass is half-full, half-empty, or just twice as big as it needs to be
 - 🧠 Forgetting why I walked into this room
 
-### Connect
+### Cosmic Contemplations
+
+- *"The universe is under no obligation to make sense to you. Neither is this README."*
+- *"They say time heals all wounds. But have you tried turning it off and on again?"*
+- *"If you think you're too small to make a difference, try sleeping with a mosquito in the room."*
+- *"The only constant in the universe is change. That, and people misquoting Einstein on the internet."*
+
+### The Nothin. Manifesto
+
+1. Question everything, especially this list
+2. The meaning of life is probably 42, but we should double-check the units
+3. If you can't explain it simply, you don't understand it well enough
+4. If you can explain it simply, you probably missed something important
+5. See rule 1
+
+### Schrödinger's Conclusion
+
+*"This README both exists and doesn't exist until you read it. Much like that notification you thought you saw but now can't find."*
+
+### Connect (Or Don't, I'm a README, Not a Cop)
 
 *"If you've read this far, congratulations! You've officially thought about nothing more than you thought you would today."*
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-> *"The only true wisdom is in knowing you know nothing."*  
-> — Socrates (allegedly, while eating cucumbers and dates)
+---
+
+<div align="center">
+  <p>"The only true wisdom is in knowing you know nothing."</p>
+  <p>— Socrates (allegedly, while eating cucumbers and dates)</p>
+  <p>© 2023 Nothin. (with a dot) | All rights reserved (except the ones I forgot about)</p>
+</div>
+
+*P.S. If you're reading this, you're probably procrastinating. Me too. High five!* ✋
