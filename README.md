@@ -1,5 +1,3 @@
-<div align="center">
-
 # **Nothin.** *(with a dot)*
 
 ---
@@ -61,7 +59,7 @@
 
 ---
 
-## **Connect (Or Don’t)**
+## **Connect (Or Don't)**
 
 > *"If you've read this far, you've already participated."*
 
@@ -72,5 +70,3 @@
 ---
 
 ## **— Nothin.**
-
-</div>
