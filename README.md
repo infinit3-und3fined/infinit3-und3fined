@@ -1,55 +1,76 @@
-Nothin. (with a dot)
+<div align="center">
 
-"If you think you understand nothing, you probably understand more than most."
-— Nothin. (3:17 AM)
+# **Nothin.** *(with a dot)*
 
-A State Without Definition
+---
 
-Nothing is defined here. That seems important.
+> *"If you think you understand nothing, you probably understand more than most."*  
+> — Nothin. *(3:17 AM)*
 
-Patterns in Nothing
+---
 
-🔭 The Cucumber-Date Paradox
-"A perfectly balanced diet: cucumbers for hydration, dates for energy."
-"A date is both fruit and construct. That feels relevant."
+## **A State Without Definition**
 
-🧪 The 3:17 AM Theory
-"The universe reveals more when it expects nothing from you."
+*Nothing is defined here. That seems important.*
 
-Echoes
+---
 
-"They said I was nothing. I added a dot."
+## **Patterns in Nothing**
 
-"The universe owes you nothing. Neither does this README."
+### 🔭 **The Cucumber-Date Paradox**
+> *"A perfectly balanced diet: cucumbers for hydration, dates for energy."*  
+> *"A date is both fruit and construct. That feels relevant."*
 
-"Time heals all wounds. Or it teaches you to stop checking them."
+### 🧪 **The 3:17 AM Theory**
+> *"The universe reveals more when it expects nothing from you."*
 
-In Motion
+---
 
-Developing the Unified Theory of Having No Idea What I’m Doing
+## **Echoes**
 
-Wondering whether clarity is rare or just quiet
+> *"They said I was nothing. I added a dot."*
 
-Forgetting why I opened this file
+> *"The universe owes you nothing. Neither does this README."*
 
-Principles of Absence
+> *"Time heals all wounds. Or it teaches you to stop checking them."*
 
-Question everything
+---
 
-Assume missing context
+## **In Motion**
 
-Simplicity is suspicious
+*Developing the Unified Theory of Having No Idea What I'm Doing*
 
-Certainty is optional
+*Wondering whether clarity is rare or just quiet*
 
-Revelation
+*Forgetting why I opened this file*
 
-"This README exists only while you are reading it."
+---
 
-Connect (Or Don’t)
+## **Principles of Absence**
 
-"If you’ve read this far, you’ve already participated."
+- **Question everything**
+- **Assume missing context**
+- **Simplicity is suspicious**
+- **Certainty is optional**
 
-Clarity appears when excess disappears.
+---
 
-— Nothin.
+## **Revelation**
+
+> *"This README exists only while you are reading it."*
+
+---
+
+## **Connect (Or Don’t)**
+
+> *"If you've read this far, you've already participated."*
+
+---
+
+*Clarity appears when excess disappears.*
+
+---
+
+## **— Nothin.**
+
+</div>
