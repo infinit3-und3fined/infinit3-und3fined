@@ -1,4 +1,4 @@
-# Nothin. ***(with a dot)*
+# Nothin. (with a dot)
 
 ---
 
@@ -89,4 +89,4 @@
 
 ---
 
-<p align="center">*You found nothing. That's something.*</p>
+<p align="center">You found nothing. That's something.</p>
