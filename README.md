@@ -1,4 +1,4 @@
-# Nothin. ***(with a dot)*
+# Nothin. (with a dot)
 
 ---
 
